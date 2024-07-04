@@ -1,11 +1,11 @@
 ### Summary of Data Science Projects and Model Performance
 
-1. Belarus Car Price Prediction:
+1. [Belarus Car Price Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Belarus%20Car%20Price%20Prediction):
     - Data Preprocessing: Filled null values without disturbing data distribution, reduced unique values in the car_make column, removed outliers.
     - Visualization and Feature Engineering: Visualized data, standardized, and labeled categorical values.
     - Model Performance: The XGBoost model achieved an accuracy of 88%.
 
-2. Breast Cancer Prediction:
+2. [Breast Cancer Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Breast%20Cancer%20Prediction):
     - Data Preprocessing: Removed unnecessary columns.
     - Visualization and Feature Engineering: Conducted data visualization, standardized, and labeled categorical values.
     - Model Performance: The Logistic Regression model achieved an accuracy of 97.4%.
@@ -15,12 +15,12 @@
     - Special Techniques: Applied ADASYN due to poor initial performance on certain classes.
     - Model Performance: The application of ADASYN improved the model accuracy to 95.3%.
 
-4. Customer Churn Prediction:
+4. [Customer Churn Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Customer%20Churn%20Prediction):
     - Data Preprocessing: Removed unnecessary columns, visualized data, standardized data, labeled categorical values.
     - Special Techniques: Applied ADASYN due to poor initial performance on one of the target classes.
     - Model Performance: The application of ADASYN improved the model accuracy to 89.2%.
 
-5. Diamond Price Prediction:
+5. [Diamond Price Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Diamond%20Price%20Prediction):
     - Data Preprocessing: No major issues in data.
     - Visualization and Feature Engineering: Conducted various data visualizations, standardized, and labeled categorical values.
     - Model Performance: The Random Forest model achieved an accuracy of 98.1%.
