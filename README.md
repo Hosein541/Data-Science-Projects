@@ -60,32 +60,32 @@
     - Special Techniques: Applied SMOTE due to poor initial performance on one of the target classes.
     - Model Performance: The application of SMOTE improved the model accuracy to 89%.
 
-13. Wine Quality Prediction:
+13. [Wine Quality Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Red%20Wine%20Quality):
    - Data Preprocessing: Simplified target column (quality) into two categories.
    - Visualization and Feature Engineering: Conducted data visualization and standardization, improved model accuracy with Grid Search.
    - Model Performance: The Random Forest model achieved an accuracy of 91.2%.
 
-14. Room Occupancy Detection:
+14. [Room Occupancy Detection](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Room%20Occupancy%20Detection):
    - Data Preprocessing: Split datetime column into day and hour, stored only relevant parts.
    - Visualization and Feature Engineering: Effective data visualization, standardized data.
    - Model Performance: The Random Forest model achieved an accuracy of 99%.
 
-15. Salary Prediction:
+15. [Salary Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Salary%20Prediction):
    - Data Preprocessing: Removed sparse null values, reduced gender categories, simplified unique values for education and job columns.
    - Visualization and Feature Engineering: Performed visualizations, standardized and labeled data, improved model accuracy with Grid Search.
    - Model Performance: The final ensemble model achieved an accuracy of 95.4%.
 
-16. Sleep Disorder Prediction:
+16. [Sleep Disorder Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Sleep%20Disorder%20Prediction):
    - Data Preprocessing: Filled null values without disturbing data distribution, converted age to categorical, reduced job categories, split blood pressure into two columns, simplified BMI categories.
    - Visualization and Feature Engineering: Conducted suitable data visualizations, standardized data, and labeled categorical values.
    - Model Performance: The XGBoost model achieved an accuracy of 94.5%.
 
-17. Telecom Customer Churn Prediction:
+17. [Telecom Customer Churn Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Telecom%20Customer%20Churn%20Prediction):
     - Data Preprocessing: Reduced unique values in some columns, visualized data, standardized data, labeled categorical values.
     - Special Techniques: Applied SMOTE due to poor initial performance on one of the target classes.
     - Model Performance: The application of SMOTE improved the model accuracy to 85.2%.
 
-18. Warranty Claims Fraud Prediction:
+18. [Warranty Claims Fraud Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/main/Warranty%20Claims%20Fraud%20Prediction):
     - Data Preprocessing: Reduced unique values in some columns, visualized data, standardized data, labeled categorical values.
     - Special Techniques: Applied ADASYN due to poor initial performance on the '1' target value.
     - Model Performance: The application of ADASYN improved the model accuracy to 95.3%.
