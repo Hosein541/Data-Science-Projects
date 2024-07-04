@@ -10,7 +10,7 @@
     - Visualization and Feature Engineering: Conducted data visualization, standardized, and labeled categorical values.
     - Model Performance: The Logistic Regression model achieved an accuracy of 97.4%.
 
-3. Cardiovascular Disease Prediction:
+3. [Cardiovascular Disease Prediction](https://github.com/Hosein541/machine_learning_with_python_part2/tree/081ded99a2be2c62e89be70251ce9f6078f8c023/Cardiovascular%20Disease%20Predictionhttps://github.com/Hosein541/machine_learning_with_python_part2/tree/081ded99a2be2c62e89be70251ce9f6078f8c023/Cardiovascular%20Disease%20Prediction):
     - Data Preprocessing: Removed unnecessary columns, visualized data, removed outliers, standardized data, labeled categorical values.
     - Special Techniques: Applied ADASYN due to poor initial performance on certain classes.
     - Model Performance: The application of ADASYN improved the model accuracy to 95.3%.
