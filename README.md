@@ -1,21 +1,21 @@
 ### Summary of Data Science Projects and Model Performance
 
-# Belarus Car Price Prediction:
+1. Belarus Car Price Prediction:
     - Data Preprocessing: Filled null values without disturbing data distribution, reduced unique values in the car_make column, removed outliers.
     - Visualization and Feature Engineering: Visualized data, standardized, and labeled categorical values.
     - Model Performance: The XGBoost model achieved an accuracy of 88%.
 
-### 2. Breast Cancer Prediction:
+2. Breast Cancer Prediction:
     - Data Preprocessing: Removed unnecessary columns.
     - Visualization and Feature Engineering: Conducted data visualization, standardized, and labeled categorical values.
     - Model Performance: The Logistic Regression model achieved an accuracy of 97.4%.
 
-###3. Cardiovascular Disease Prediction:
+3. Cardiovascular Disease Prediction:
     - Data Preprocessing: Removed unnecessary columns, visualized data, removed outliers, standardized data, labeled categorical values.
     - Special Techniques: Applied ADASYN due to poor initial performance on certain classes.
     - Model Performance: The application of ADASYN improved the model accuracy to 95.3%.
 
-###4. Customer Churn Prediction:
+4. Customer Churn Prediction:
     - Data Preprocessing: Removed unnecessary columns, visualized data, standardized data, labeled categorical values.
     - Special Techniques: Applied ADASYN due to poor initial performance on one of the target classes.
     - Model Performance: The application of ADASYN improved the model accuracy to 89.2%.
