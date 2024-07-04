@@ -100,7 +100,7 @@ If you have any specific details or additional steps that you would like to incl
 ### *Developed by Hosein Mohammadi*
 GitHub : https://github.com/Hosein541
 
-Linkedin : https://www.linkedin.com/in/hosein-mohammadi-979b8a2b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Linkedin : [https://www.linkedin.com/in/hosein-mohammadi](https://www.linkedin.com/in/hosein-mohammadi-979b8a2b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Kaggle : https://www.kaggle.com/hoseinnnnnnn 
 
