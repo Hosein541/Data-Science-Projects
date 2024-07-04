@@ -1,6 +1,6 @@
 ### Summary of Data Science Projects and Model Performance
 
-# 1. Belarus Car Price Prediction:
+# Belarus Car Price Prediction:
     - Data Preprocessing: Filled null values without disturbing data distribution, reduced unique values in the car_make column, removed outliers.
     - Visualization and Feature Engineering: Visualized data, standardized, and labeled categorical values.
     - Model Performance: The XGBoost model achieved an accuracy of 88%.
